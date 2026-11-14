@@ -19,5 +19,10 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-config.bat
 node_modules
+
+.env
+.env.*
+!.env.example
+.vscode/
+node_modules/
